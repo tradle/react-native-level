@@ -4,7 +4,7 @@
   "description": "levelup API for react-native AsyncStorage.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"See asyncstorage-down for tests\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -23,10 +23,7 @@
   },
   "homepage": "https://github.com/tradle/react-level",
   "dependencies": {
-    "react-native": "^0.3.4"
-  },
-  "devDependencies": {
-    "abstract-leveldown": "^2.1.0",
-    "tape": "^4.0.0"
+    "asyncstorage-down": "git://github.com/tradle/asyncstorage-down",
+    "level-packager": "^0.18.0"
   }
 }
