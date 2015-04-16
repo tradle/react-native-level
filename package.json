@@ -11,10 +11,14 @@
     "url": "https://github.com/tradle/react-level.git"
   },
   "keywords": [
-    "react-native",
+    "leveldb",
+    "leveldown",
+    "levelup",
     "AsyncStorage",
-    "dataBase",
-    "ios"
+    "ios",
+    "react",
+    "react-component",
+    "react-native"
   ],
   "author": "Mark Vayngrib <mark.vayngrib@lablz.com>",
   "license": "MIT",
