@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/tradle/react-level",
   "dependencies": {
-    "asyncstorage-down": "git://github.com/tradle/asyncstorage-down",
+    "asyncstorage-down": "^0.0.1",
     "level-packager": "^0.18.0"
   }
 }
