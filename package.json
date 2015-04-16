@@ -1,6 +1,6 @@
 {
   "name": "react-level",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "levelup API for react-native AsyncStorage.",
   "main": "index.js",
   "scripts": {
