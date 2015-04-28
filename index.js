@@ -1,2 +1,2 @@
-require('./node_modules/asyncstorage-down/platform')
+require('react-helper')
 module.exports = require('level-packager')(require('asyncstorage-down'))
