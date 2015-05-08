@@ -28,6 +28,7 @@
   "homepage": "https://github.com/tradle/react-level",
   "dependencies": {
     "asyncstorage-down": "^0.0.2",
-    "level-packager": "^0.18.0"
+    "level-packager": "^0.18.0",
+    "react-native": "^0.4.1"
   }
 }
