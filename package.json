@@ -1,5 +1,5 @@
 {
-  "name": "react-level",
+  "name": "react-native-level",
   "version": "0.0.5",
   "description": "levelup API for react-native AsyncStorage.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tradle/react-level.git"
+    "url": "https://github.com/tradle/react-native-level.git"
   },
   "keywords": [
     "leveldb",
@@ -23,9 +23,9 @@
   "author": "Mark Vayngrib <mark.vayngrib@lablz.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tradle/react-level/issues"
+    "url": "https://github.com/tradle/react-native-level/issues"
   },
-  "homepage": "https://github.com/tradle/react-level",
+  "homepage": "https://github.com/tradle/react-native-level",
   "dependencies": {
     "asyncstorage-down": "^0.0.2",
     "level-packager": "^0.18.0",
