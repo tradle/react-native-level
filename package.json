@@ -25,10 +25,12 @@
   "bugs": {
     "url": "https://github.com/tradle/react-native-level/issues"
   },
+  "peerDependencies": {
+    "react-native": ">=0.4 <1.0"
+  },
   "homepage": "https://github.com/tradle/react-native-level",
   "dependencies": {
     "asyncstorage-down": "^1.0.0",
-    "level-packager": "^0.18.0",
-    "react-native": "^0.4.1"
+    "level-packager": "^0.18.0"
   }
 }
