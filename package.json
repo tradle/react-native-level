@@ -1,6 +1,6 @@
 {
   "name": "react-native-level",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "levelup API for react-native AsyncStorage.",
   "main": "index.js",
   "scripts": {
@@ -26,11 +26,11 @@
     "url": "https://github.com/tradle/react-native-level/issues"
   },
   "peerDependencies": {
-    "react-native": ">=0.4 <1.0"
+    "asyncstorage-down": "^2.0.0",
+    "react-native": ">=0.4 <1.0 || 0.5.0-rc || 0.6.0-rc || 0.7.0-rc || 0.8.0-rc || 0.9.0-rc || 0.10.0-rc || 0.11.0-rc"
   },
   "homepage": "https://github.com/tradle/react-native-level",
   "dependencies": {
-    "asyncstorage-down": "^1.0.0",
     "level-packager": "^0.18.0"
   }
 }
